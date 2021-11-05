@@ -1,0 +1,22 @@
+
+.Navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+}
+.Logo {
+    font-size: 30px;
+    color: rgb(255, 165, 0);
+    margin: 15px;
+}
+.menu-list {
+    list-style: none;
+    display: flex;  
+}
+
+.menu-list1 {
+    text-decoration: none;
+    padding: 10px;
+    color: chocolate;
+}
